@@ -53,10 +53,3 @@ This project explores real-world coffee sales data collected from a vending mach
 - Jupyter Notebook
 
 ---
-
-## 🚀 How to Run
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/Prerna-Kandpal/coffee-sales-analysis.git

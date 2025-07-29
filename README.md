@@ -4,7 +4,7 @@ This project explores real-world coffee sales data collected from a vending mach
 
 ---
 
-## 📁 Dataset Overview
+##  Dataset Overview
 
 - **Data Range**: March 2024 – Present  
 - **Source**: Simulated vending machine transactions  
@@ -20,23 +20,23 @@ This project explores real-world coffee sales data collected from a vending mach
 
 ## 🔍 Project Workflow
 
-### 🧼 Step 1: Data Cleaning
+###  Step 1: Data Cleaning
 - Handled missing values
 - Fixed data types
 - Removed duplicates
 - Standardized coffee names and payment entries
 
-### 📊 Step 2: Exploratory Data Analysis (EDA)
+###  Step 2: Exploratory Data Analysis (EDA)
 - Coffee popularity analysis
 - Sales distribution by weekday and hour
 - Monthly sales trends by coffee type
 
-### 🤖 Step 3: Machine Learning
+###  Step 3: Machine Learning
 - Linear Regression model to predict `money` (sales amount)
 - Used features: `coffee_name`, `cash_type`, `day`, and `hour`
 - Evaluation: MSE and R² score
 
-### 📈 Step 4: Insights
+###  Step 4: Insights
 - Most popular: **Latte** and **Americano with Milk**
 - Peak hours: **10 AM** and **7 PM**
 - Highest sales on **Tuesday**
@@ -46,7 +46,7 @@ This project explores real-world coffee sales data collected from a vending mach
 
 ## 🛠️ Tools & Libraries
 
-- Python 🐍
+- Python 
 - Pandas & NumPy
 - Matplotlib & Seaborn
 - Scikit-learn
